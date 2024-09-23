@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+button {
+  margin-left: 10px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+
+.bg-light-blue {
+  background-color: #add8e6; 
+}
+
